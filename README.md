@@ -10,4 +10,4 @@ Adele Younis (20944650)
 
 # Installation and Usage
 1. Clone this repository: git clone https://github.com/adeleyounis/Modelling-Neuronal-Impact-Following-a-Brain-Injury
-2. 
+2. Run Main_Simulation_Trials.m
